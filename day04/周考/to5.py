@@ -20,4 +20,4 @@ mm.setdefault('e', e1)
 mm.setdefault('f', f1)
 print('个数为', mm)
 p = [a1, b1, c1, d1, e1, f1]
-print(p)
+print(39 + 26 + 33 + 38 + 37 + 28)
